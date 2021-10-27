@@ -12,7 +12,7 @@
 @media screen and (max-width: 1023px) {
     .intro__container {
         max-width: 720px;
-        margin: 88px calc(24px * 100% / 720px);
+        margin: 88px 3.125%;
     }
 }
 
