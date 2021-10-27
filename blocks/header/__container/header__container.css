@@ -1,0 +1,26 @@
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 3.75%;
+    padding: 28px 0 0 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .header__container {
+        margin: 0 4.6875%;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .header__container {
+        margin: 0 3.125%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__container {
+        margin: 0 5%;
+        padding: 16px 0 0 0;
+    }
+}

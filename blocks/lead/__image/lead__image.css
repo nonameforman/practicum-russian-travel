@@ -1,0 +1,8 @@
+.lead__image {
+    font-size: 0;
+}
+
+.lead__image img {
+    width: 100%;
+    object-fit: cover;
+}
