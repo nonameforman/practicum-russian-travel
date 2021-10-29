@@ -1,8 +1,5 @@
 .place__image {
     align-self: start;
-}
-
-.place__image img {
     width: 100%;
     object-fit: cover;
     max-width: 460px;

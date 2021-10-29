@@ -2,25 +2,26 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 3.75%;
+    margin: 0 auto;
     padding: 28px 0 0 0;
+    max-width: 1184px;
 }
 
 @media screen and (max-width: 1279px) {
     .header__container {
-        margin: 0 4.6875%;
+        width: 90.625%;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .header__container {
-        margin: 0 3.125%;
+        width: 93.75%;
     }
 }
 
 @media screen and (max-width: 767px) {
     .header__container {
-        margin: 0 5%;
         padding: 16px 0 0 0;
+        width: 90%;
     }
 }

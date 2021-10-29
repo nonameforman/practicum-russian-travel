@@ -1,22 +1,22 @@
-.photo-grid {
-    max-width: 1184px;
+.intro {
+    max-width: 984px;
     margin: 0 auto;
 }
 
 @media screen and (max-width: 1279px) {
-    .photo-grid {
+    .intro {
         width: 90.625%;
     }
 }
 
 @media screen and (max-width: 1023px) {
-    .photo-grid {
+    .intro {
         width: 93.75%;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .photo-grid {
+    .intro {
         width: 90%;
     }
 }
